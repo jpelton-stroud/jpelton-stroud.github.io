@@ -59,7 +59,7 @@ plugins:
 author:
   name: "Joshua Pelton-Stroud"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Elder Millenial, Data Analyst, Husband & Father of Three"
+  bio: "Elder Millenial, Data Analyst, Programmer, Husband & Father of Three."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
