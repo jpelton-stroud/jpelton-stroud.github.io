@@ -1,0 +1,13 @@
+{
+  "overrides": [
+    {
+      "files": "**/*.md",
+      "options": {
+        "parser": "markdown",
+        "proseWrap": "always",
+        "printWidth": 100,
+        "embeddedLanguageFormatting": "auto"
+      }
+    }
+  ]
+}
