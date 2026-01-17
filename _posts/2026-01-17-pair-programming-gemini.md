@@ -61,9 +61,10 @@ under 13 - a **48% reduction** in runtime.
 
 ## There's no Zealot like a Convert
 
-I was hooked. I was in the zone, producing working code at a velocity that was hitherto
-_unfathomable_ for me. I went from concept to production in a week, after a 2 & 1/2 year hiatus; and
-I was learning so **much**! It was amazing...
+I was hooked. I started working on an app that I'd all but abandoned back in 2022 and took to it
+with gusto. I was in the zone, producing working code at a velocity that was hitherto _unfathomable_
+for me. I went from concept to production in a week, after a 2 & 1/2 year hiatus; and I was learning
+so **much**! It was amazing...
 
 And then I thought to myself "what if I want to expand this app beyond its current borders? I should
 refactor my code to a plugin-based system!", so I asked Gemini how best I could accomplish that, and
