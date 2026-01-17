@@ -11,7 +11,6 @@ tags:
   - Programming
 header:
   overlay_image: https://i0.wp.com/techwiseacademy.com/wp-content/uploads/2016/12/code-1839406_1920.jpg?resize=845%2C321&ssl=1
-  teaser: https://i0.wp.com/techwiseacademy.com/wp-content/uploads/2016/12/code-1839406_1920.jpg?resize=845%2C321&ssl=1
 published: true
 ---
 
