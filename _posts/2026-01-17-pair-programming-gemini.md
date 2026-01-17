@@ -1,7 +1,7 @@
 ---
 title: "Adventures in Pair Programming with Gemini"
 layout: single
-excerpt_separator: "<!--more-->"
+excerpt: "AI is awesome; AI is aweful; whatever your personal feelings, AI is _here_."
 share: true
 categories:
   - Blog
@@ -12,10 +12,6 @@ header:
   teaser: /assets/images/
 published: true
 ---
-
-AI is awesome; AI is aweful; whatever your personal feelings, AI is _here_.
-
-<!--more-->
 
 When upper management decreed _"Thou Shalt Utilize AI in All Things"_ last year, I struggled to find
 a spot for it in my workflow. I knew AI had its uses, I just didn't know how it could be helpful to
