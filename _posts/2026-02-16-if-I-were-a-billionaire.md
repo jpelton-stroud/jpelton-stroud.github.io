@@ -5,9 +5,9 @@ categories:
 tags:
   - Thought_Experiments
 header:
-  overlay_image: /assets/images/
-  teaser: /assets/images/
-published: false
+  overlay_image: /assets/images/trees-growing-on-gold-coins.png
+  teaser: /assets/images/trees-growing-on-gold-coins.png
+published: true
 ---
 
 What would you do if you woke up tomorrow with a tax-free _billion dollars_ in the bank? Here's what
@@ -41,8 +41,8 @@ have to be rich to have a decent place to live.**
 ## Step 2 - The Sink
 
 Now, the cool part: I'd start a private preK-12 STEM & Trades school, funded by a trust and the
-rental income collected by the non-profit. Tuition would be sliding scale, with guaranteed
-acceptance of any child living in one of my non-profit's properties.
+rental income collected by the non-profit. Tuition would be sliding scale, with guaranteed admission
+for any child living in one of my non-profit's properties.
 
 The school would pay good wages—the kind that allowed single income families to own a home, a car,
 and send their kids to college through the 50s and 60s—to attract top-notch educators and staff,
