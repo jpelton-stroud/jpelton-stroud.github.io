@@ -58,12 +58,12 @@ plugins:
 
 author:
   name: "Joshua Pelton-Stroud"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/jpstroud-bio-photo.jpg"
   bio: "Elder Millenial, Husband & Father of Three."
   links:
-    - label: "Website"
+    - label: "Website (Feed)"
       icon: "fas fa-fw fa-link"
-      url: "https://jpelton-stroud.github.io/"
+      url: "https://jpelton-stroud.github.io/feed.xml"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpelton-stroud/"
