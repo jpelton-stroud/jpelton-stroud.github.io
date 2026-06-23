@@ -7,7 +7,7 @@ tags:
 header:
   overlay_image: assets/images/Capitol_Building_Full_View.jpg
   teaser: /assets/images/
-published: true
+published: false
 ---
 
 I come before you to announce that the State of the Stroud is...actually pretty precarious, ngl
