@@ -15,11 +15,11 @@ Experienced Data Analyst and Programmer with a proven track record in data-drive
 
 ## Skills & Competencies
 
-- **Cloud & Databases:** Microsoft SQL Server, Teradata SQL, SQL, Cloud Firestore (Firebase), Google Cloud Functions (Firebase), Azure DevOps, Azure Functions, REST APIs
+- **Cloud & Databases:** Microsoft SQL Server, Teradata SQL, SQL, Cloud Firestore (Firebase), Google Cloud Functions (Firebase), Azure Functions, REST APIs
 - **Data Analysis & Automation:** Process Automation, Google Apps Script, Looker Studio, Advanced Excel, Google Sheets, KPI Dashboards, Executive Reporting, Root Cause Analysis, Statistical Analysis
 - **Methodologies & Leadership:** Agile Development, Lean Six Sigma (Yellow Belt), Business Process Improvement, Cross-functional Collaboration, System Testing, Technical Documentation & Training
 - **Frontend & Web Development:** Angular, Angular Material, Angular CLI, TypeScript, HTML5, CSS/SCSS, Progressive Web Apps (PWA), Single Page Applications (SPA), VBScript
-- **AI & Developer Tools:** Google Gemini, Antigravity IDE, Git, GitHub, GitHub Actions Jira, Confluence, Google Workspace, Microsoft 365
+- **AI & Developer Tools:** Google Gemini, Antigravity IDE, Git, GitHub, GitHub Actions, Azure DevOps, Jira, Confluence, Google Workspace, Microsoft 365
 - **Networking & Systems:** Cisco Technologies & IOS, Routers & Switches, Actelis MetroEthernet, Calix E5 Series, CopperCom, VoIP Diagnostics, Hardware Troubleshooting, Linux, Windows, macOS
 
 ## Projects
@@ -87,12 +87,16 @@ Delivered advanced on-site technical solutions for residential and Small Office/
 **Communications Workers of America, Local 1118**  
 *Jun 2013 – May 2025*
 
+### Political Activism Trainer
+**CWA District 1 Legislative Committee**  
+*Jan 2018 – Jun 2022*
+
 ### Chair & Political Action Coordinator
 **CWA Local 1118 Legislative Committee**  
 *Jan 2018 – Jun 2022*
 
 ### Secretary
-**Albany County Central Federation of Labor**  
+**Albany County Central Federation of Labor, AFL-CIO**  
 *Sep 2017 – Jun 2022*
 
 ## Education
@@ -101,7 +105,9 @@ Delivered advanced on-site technical solutions for residential and Small Office/
 **Computer Science**  
 *2002 – 2004*
 
-- **Activities & Societies:** Student Government Association, Student Tutor Program (C++ Programming)
+**Activities & Societies:**
+- Member, Student Government Association
+- Student Tutor Program (C++ Programming)
 
 ## Licenses & Certifications
 

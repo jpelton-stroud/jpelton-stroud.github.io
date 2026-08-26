@@ -64,12 +64,12 @@ author:
   avatar: "/assets/images/jpstroud-bio-photo.jpg"
   bio: "Elder Millenial, Husband & Father of Three"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/joshuapeltonstroud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpelton-stroud/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/joshuapeltonstroud/"
     - label: "RSS Feed"
       icon: "fas fa-fw fa-rss"
       url: "https://jpelton-stroud.github.io/feed.xml"
@@ -79,12 +79,12 @@ author:
 
 footer:
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/joshuapeltonstroud/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jpelton-stroud/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/joshuapeltonstroud/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
