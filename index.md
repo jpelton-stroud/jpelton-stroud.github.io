@@ -12,15 +12,15 @@ requirements into reliable digital solutions.
 
 ## Skills & Competencies
 
-- **Cloud & Databases:** Microsoft SQL Server, Teradata SQL, SQL, Cloud Firestore (Firebase), Google
-  Cloud Functions (Firebase), Azure Functions, REST APIs
+- **Cloud & Databases:** Microsoft SQL Server, Teradata SQL, SQL, Google Cloud Firestore, Google
+  Cloud Functions, Azure Functions, REST APIs
 - **Data Analysis & Automation:** Process Automation, Google Apps Script, Looker Studio, Advanced
   Excel, Google Sheets, KPI Dashboards, Executive Reporting, Root Cause Analysis, Statistical
   Analysis
 - **Methodologies & Leadership:** Agile Development, Lean Six Sigma (Yellow Belt), Business Process
   Improvement, Cross-functional Collaboration, System Testing, Technical Documentation & Training
-- **Frontend & Web Development:** Angular, Angular Material, Angular CLI, TypeScript, HTML5,
-  CSS/SCSS, Progressive Web Apps (PWA), Single Page Applications (SPA), VBScript
+- **Frontend & Web Development:** Angular, Angular Material, Angular CLI, TypeScript, HTML5, S/CSS,
+  Progressive Web Apps (PWA), Single Page Applications (SPA), VBScript
 - **AI & Developer Tools:** Google Gemini, Antigravity IDE, Git, GitHub, GitHub Actions, Azure
   DevOps, Jira, Confluence, Google Workspace, Microsoft 365
 - **Networking & Systems:** Cisco Technologies & IOS, Routers & Switches, Actelis MetroEthernet,
